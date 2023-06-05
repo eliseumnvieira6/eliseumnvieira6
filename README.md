@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eliseu. I'm 21 years old from Madeira Island, Portugal.
 - 👀 I’m interested in Cybersecurity, Ethical Hacking and Software Development.
-- 🌱 I’m currently learning Python API (Backend) + JavaScript (Frontend).
+- 🌱 I’m currently learning and developing using ReactJS and Express.
 <!---- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
 
